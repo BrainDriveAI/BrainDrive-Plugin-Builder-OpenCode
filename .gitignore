@@ -1,0 +1,22 @@
+# Plugin output
+plugin-test/
+
+# OpenCode local settings
+.opencode/settings.local.json
+
+# Node modules
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.log
